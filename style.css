@@ -1,3 +1,6 @@
 .added-task {
     font-family: 'Times New Roman';
 }
+body {
+    background-color: green;
+}
